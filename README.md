@@ -3,3 +3,4 @@
 Usage: 
 1. Edit IP in malplugin.php.
 2. Start listner.
+3. Upload zip.
